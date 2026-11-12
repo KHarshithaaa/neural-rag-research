@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+requests
+python-dotenv
+torch
+transformers
+sentence-transformers
+chromadb
+langchain
+langchain-community
+langchain-chroma
+fastapi
+uvicorn
+datasets
+evaluate
+scikit-learn
