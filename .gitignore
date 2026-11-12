@@ -7,3 +7,9 @@ models/
 results/
 .pytest_cache/
 .ipynb_checkpoints/
+data/chroma_db/
+data/raw/
+.env
+.venv/
+__pycache__/
+*.pyc
